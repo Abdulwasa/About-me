@@ -1,5 +1,3 @@
-**About Me**
-
 I am Abdulwasa Abdulkader Osman, a highly motivated and self-taught developer with a passion for technology and innovation. Originally from Eritrea, I have been living in Germany since 2015 as a refugee. When I arrived in Germany, I faced new challenges and opportunities. I started from scratch, learning the German language and immersing myself in the world of computers and programming.
 
 **Frontend Development:** With over 4 years of experience in frontend development, I specialize in crafting interactive and visually appealing user interfaces. Proficient in JavaScript, React.js, HTML5, and CSS3, I have a proven track record of building responsive and scalable web applications that deliver exceptional user experiences.
