@@ -15,3 +15,16 @@ As a self-driven learner, I possess a strong drive for continuous improvement an
 In addition to my technical prowess, I have earned certifications in Front-End Web Development, validating my skills in these areas. My journey as a developer has taught me resilience and adaptability, overcoming challenges during my escape and asylum process.
 
 As I embrace new opportunities, I am excited to leverage my skills and experiences to contribute to meaningful projects and push the boundaries of web development, desktop, and mobile applications. I strongly believe in the power of technology to make a positive impact on people's lives and am committed to creating solutions that inspire and delight users.
+
+***Fields to be Discovered or Improved:***
+
+I am passionate about staying at the forefront of technological advancements and continuously seek opportunities to explore and enhance my expertise in various domains. The following fields particularly intrigue me, and I am eager to discover and improve my abilities in:
+
+**Artificial Intelligence and Machine Learning:** 
+I am excited to delve deeper into the realm of AI and machine learning to develop intelligent systems that can positively impact various industries and everyday lives.
+
+**Cybersecurity & Hardware:** 
+Understanding the criticality of cybersecurity and the underlying hardware components, I am determined to bolster my abilities in safeguarding digital assets and implementing secure infrastructure. My current knowledge in cybersecurity serves as a strong foundation, and I am eager to expand my capabilities in this ever-evolving field.
+
+**IoT (Internet of Things):** 
+With a keen interest in the IoT ecosystem, I am eager to learn more about the integration of smart devices and explore innovative solutions to contribute to the connected world.
