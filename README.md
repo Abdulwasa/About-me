@@ -35,5 +35,6 @@ With a keen interest in the IoT ecosystem, I am eager to learn more about the in
 **Leadership:** 
 Embarking on a journey to learn about leadership, I aim to develop essential skills in communication, empathy, and decision-making. Through continuous learning, I seek to inspire and guide others towards common goals while fostering a collaborative work environment. By honing my abilities in conflict resolution and delegation, I aspire to lead by example and contribute positively to both personal and professional growth.
 
+
 Thank you very much!
 
