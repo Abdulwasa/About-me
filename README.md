@@ -1,10 +1,10 @@
 I am Abdulwasa Abdulkader Osman, a highly motivated and self-taught developer with a passion for technology and innovation. Originally from Eritrea, I have been living in Germany since 2015 as a refugee. When I arrived in Germany, I faced new challenges and opportunities. I started from scratch, learning the German language and immersing myself in the world of computers and programming.
 
 **Frontend Development:** 
-With over 4 years of experience in frontend development, I specialize in crafting interactive and visually appealing user interfaces. Proficient in JavaScript, React.js, HTML5, and CSS3, I have a proven track record of building responsive and scalable web applications that deliver exceptional user experiences.
+As a frontend developer, my expertise lies in creating captivating and user-friendly interfaces, honed over several years. I command a strong grasp of JavaScript, React.js, HTML5, and CSS3, evident in my history of constructing adaptable, responsive web applications that consistently provide remarkable user interactions.
 
 **Backend Development:** 
-As a full-stack developer, I have a solid foundation in backend technologies. I am proficient in Python, with a focus on FastAPI, allowing me to build efficient and high-performance server-side applications. Additionally, I am skilled in Node.js and Express, enabling me to develop robust backend solutions to support web and mobile applications.
+As a Backend developer, I have a solid foundation in backend technologies. I am proficient in Python, with a focus on FastAPI, allowing me to build efficient and high-performance server-side applications. Additionally, I am skilled in Node.js and Express, enabling me to develop robust backend solutions to support web and mobile applications.
 
 **Desktop Applications:** 
 I am well-versed in developing desktop applications using technologies like Electron.js. Leveraging my skills in JavaScript, Node.js, and Electron, I create cross-platform desktop apps with rich functionality and a seamless user interface.
@@ -31,6 +31,9 @@ Having completed just one cyber security project, my thirst for deeper explorati
 
 **IoT (Internet of Things):** 
 With a keen interest in the IoT ecosystem, I am eager to learn more about the integration of smart devices and explore innovative solutions to contribute to the connected world.
+
+**Leadership:** 
+Embarking on a journey to learn about leadership, I aim to develop essential skills in communication, empathy, and decision-making. Through continuous learning, I seek to inspire and guide others towards common goals while fostering a collaborative work environment. By honing my abilities in conflict resolution and delegation, I aspire to lead by example and contribute positively to both personal and professional growth.
 
 Thank you very much!
 
